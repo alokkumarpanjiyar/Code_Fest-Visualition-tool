@@ -1,0 +1,52 @@
+img {
+    width: 80%;
+}
+
+.image {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.horizontal-line {
+    border: none;
+    height: 1px;
+    color: grey; 
+    background-color: grey;
+    width: 500px;
+    margin-top: 80px;
+}
+
+.horizontal-line1 {
+    border: none;
+    height: 1px;
+    color: grey; 
+    background-color: grey;
+    width: 300px;
+}
+
+.row-color {
+    color: white;
+    margin-bottom: 50px;
+}
+
+.about-button {
+    margin-top: -5px;
+}
+
+.logo {
+    width: 140px;
+    height: 28px;
+    margin-top: -2px;
+}
+
+.main {
+    width: 50%;
+}
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-top: 1px solid #ededed;
+    color: #A9A9A9;
+}
